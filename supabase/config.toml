@@ -1,0 +1,10 @@
+project_id = "rnzsngstgzwdertqwscc"
+
+[functions.create-users]
+verify_jwt = false
+
+[functions.reset-password]
+verify_jwt = false
+
+[functions.check-late-actions]
+verify_jwt = false
